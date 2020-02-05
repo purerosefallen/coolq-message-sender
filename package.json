@@ -1,0 +1,27 @@
+{
+  "name": "coolq-message-sender",
+  "version": "1.0.0",
+  "description": " send message to listed QQs ",
+  "main": "run.js",
+  "scripts": {
+    "test": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purerosefallen/coolq-message-sender.git"
+  },
+  "keywords": [
+    "coolq"
+  ],
+  "author": "Nanahira",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/purerosefallen/coolq-message-sender/issues"
+  },
+  "homepage": "https://github.com/purerosefallen/coolq-message-sender#readme",
+  "dependencies": {
+    "cqhttp": "^1.2.0",
+    "jinja-js": "^0.1.8",
+    "js-yaml": "^3.13.1"
+  }
+}

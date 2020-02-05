@@ -1,0 +1,6 @@
+coolq:
+  apiRoot: http://10.198.5.136:59000
+send_list:
+  - 78877
+  - 1141457733
+message_file: ./message.txt
