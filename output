@@ -1,8 +1,3 @@
-coolq:
-  apiRoot: http://10.198.5.136:59000
-  accessToken: ff
-  secret: gg
-send_list:
   971511345:
   1712104537:
   3034368174:
@@ -19,4 +14,3 @@ send_list:
   873144097:
   810291055:
   1507680801:
-message_file: ./message.txt
